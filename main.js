@@ -25,9 +25,7 @@ $("#btn-remove").click(function(){
 
     $("#rem").empty();
 
-
 });
-
 
 
 });
